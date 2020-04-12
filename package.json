@@ -12,6 +12,9 @@
 		"node": ">=10.0.0"
 	},
 	"main": "index.js",
+	"scripts": {
+		"postversion": "git push && git push --tags"
+	},
 	"dependencies": {
 		"commitlint": "^8.3.5"
 	}
