@@ -1,5 +1,5 @@
 {
-	"name": "commitlint-config-enderverse",
+	"name": "@enderverse/commitlint-config-enderverse",
 	"version": "0.2.0",
 	"description": "CommitLint shareable config for Enderverse",
 	"license": "MIT",
