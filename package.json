@@ -7,7 +7,7 @@
 		"name": "Tyler Richards",
 		"email": "hello@tjrgg.xyz"
 	},
-	"repository": "Enderverse/commitlint-config-enderverse",
+	"repository": "enderverse/commitlint-config-enderverse",
 	"engines": {
 		"node": ">=10.0.0"
 	},
