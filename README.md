@@ -1,12 +1,12 @@
 <h1 align="center">
-	commitlint-config-enderverse
+	commitlint-config
 </h1>
 
 <p align="center">
-	<img alt="Issues" src="https://img.shields.io/github/issues/Enderverse/commitlint-config-enderverse?cacheSeconds=86400" />
-	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Enderverse/commitlint-config-enderverse?cacheSeconds=86400" />
-	<img alt="Size" src="https://img.shields.io/github/repo-size/Enderverse/commitlint-config-enderverse?cacheSeconds=86400&label=size" />
-	<img alt="Version" src="https://img.shields.io/github/package-json/version/Enderverse/commitlint-config-enderverse?cacheSeconds=86400&label=version" />
+	<img alt="Issues" src="https://img.shields.io/github/issues/enderverse/commitlint-config?cacheSeconds=86400" />
+	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/enderverse/commitlint-config?cacheSeconds=86400" />
+	<img alt="Size" src="https://img.shields.io/github/repo-size/enderverse/commitlint-config?cacheSeconds=86400&label=size" />
+	<img alt="Version" src="https://img.shields.io/github/package-json/version/enderverse/commitlint-config?cacheSeconds=86400&label=version" />
 
 </p>
 
@@ -24,12 +24,12 @@
 
 npm
 ```sh
-npm install Enderverse/commitlint-config-enderverse --save-dev
+npm install @enderverse/commitlint-config --save-dev
 ```
 
 yarn
 ```sh
-yarn add Enderverse/commitlint-config-enderverse -D
+yarn add @enderverse/commitlint-config -D
 ```
 
 
@@ -37,7 +37,7 @@ yarn add Enderverse/commitlint-config-enderverse -D
 
 Add the following to your `.commitlintrc` or `.commitlintrc.json`:
 ```json
-"extends": [ "enderverse" ]
+"extends": [ "@enderverse/commitlint-config" ]
 ```
 
 
